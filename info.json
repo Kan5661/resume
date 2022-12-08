@@ -1,0 +1,19 @@
+#! /usr/bin/env node
+
+{
+    "name": "kan",
+    "website": "https://kan5661.github.io/2048/",
+    "linkedin": "https://www.linkedin.com/in/kan-lin-ab95431ab/",
+    "github": "kan5661",
+    "email": "linkan0718@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "Node",
+        "Python",
+    ],
+    "hobbies": [
+        "chess",
+        "gaming",
+        "reading"
+    ]
+}
